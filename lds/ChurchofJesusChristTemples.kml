@@ -1,0 +1,4803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ChurchofJesusChristTemples.kml</name>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
+	<Style id="sn_red-circle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_red-circle">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_red-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-circle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-circle">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-circle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blu-circle">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_blu-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-circle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grn-circle">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grn-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Temples of The Church of Jesus Christ of Latter-day Saints</name>
+		<visibility>1</visibility>
+		<open>1</open>
+		<LookAt>
+			<longitude>-111.891958</longitude>
+			<latitude>40.770468</latitude>
+			<altitude>0</altitude>
+			<range>7800000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+		</LookAt>
+		<Placemark>
+			<name>Aba Nigeria Temple</name>
+			<Snippet>121st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/aba-nigeria-temple/"></a><br>
+<br>
+Okpu-Umuoba Road<br />
+Off Aba-Owerri Road at Union Bank<br>
+Aba, Abia<br>
+Nigeria<br>
+Phone:&nbsp; (+234) 80-3903-4804<br>
+<a href="https://churchofjesuschristtemples.org/aba-nigeria-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>7.35671900</longitude>
+				<latitude>5.14764400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>7.35671900,5.14764400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abidjan Côte d'Ivoire Temple</name>
+			<Snippet>Foundation completed; pouring main floor exterior walls</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/abidjan-cote-d'ivoire-temple/"></a><br>
+<br>
+Abidjan<br>
+Cote d'Ivoire<br>
+]]></description>
+			<LookAt>
+				<longitude>-3.97680500</longitude>
+				<latitude>5.36232900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-3.97680500,5.36232900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Accra Ghana Temple</name>
+			<Snippet>117th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/accra-ghana-temple/"></a><br>
+<br>
+57 Independence Avenue<br />
+North Ridge<br />
+PMB CT 209, Cantonments<br>
+Accra<br>
+Ghana<br>
+Phone:&nbsp; (+233) 302-650-123<br>
+<a href="https://churchofjesuschristtemples.org/accra-ghana-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-0.19370600</longitude>
+				<latitude>5.56749000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-0.19370600,5.56749000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adelaide Australia Temple</name>
+			<Snippet>89th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/adelaide-australia-temple/"></a><br>
+<br>
+53-59 Lower Portrush Road<br>
+Marden, South<br>
+Australia<br>
+Phone:&nbsp; (+61) 8-8363-8000<br>
+<a href="https://churchofjesuschristtemples.org/adelaide-australia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>138.63500200</longitude>
+				<latitude>-34.89247300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>138.63500200,-34.89247300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Albuquerque New Mexico Temple</name>
+			<Snippet>73rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/albuquerque-new-mexico-temple/"></a><br>
+<br>
+10301 San Francisco Drive NE<br>
+Albuquerque, New Mexico<br>
+United States<br>
+Phone:&nbsp; (+1) 505-822-5110<br>
+<a href="https://churchofjesuschristtemples.org/albuquerque-new-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-106.52530100</longitude>
+				<latitude>35.16768400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-106.52530100,35.16768400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anchorage Alaska Temple</name>
+			<Snippet>54th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/anchorage-alaska-temple/"></a><br>
+<br>
+13161 Brayton Drive<br>
+Anchorage, Alaska<br>
+United States<br>
+Phone:&nbsp; (+1) 907-348-7890<br>
+<a href="https://churchofjesuschristtemples.org/anchorage-alaska-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-149.84051200</longitude>
+				<latitude>61.10162700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-149.84051200,61.10162700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antofagasta Chile Temple</name>
+			<Snippet>Planning and approval phase; awaiting official site announcement</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/antofagasta-chile-temple/"></a><br>
+<br>
+Antofagasta<!-- Jaime Padrely 62 --><br>
+Chile<br>
+]]></description>
+			<LookAt>
+				<longitude>-70.39452500</longitude>
+				<latitude>-23.57189100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-70.39452500,-23.57189100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apia Samoa Temple</name>
+			<Snippet>22nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/apia-samoa-temple/"></a><br>
+<br>
+Vaitele Street<br>
+Pesega, Apia<br>
+Samoa<br>
+Phone:&nbsp; (+685) 64-230<br>
+<a href="https://churchofjesuschristtemples.org/apia-samoa-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-171.78303400</longitude>
+				<latitude>-13.83806400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-171.78303400,-13.83806400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arequipa Peru Temple</name>
+			<Snippet>Landscaping nearing completion; art glass windows installed; interior finish work progressing</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/arequipa-peru-temple/"></a><br>
+<br>
+Carmen Alto<br />
+Cayma<br>
+Arequipa, Arequipa<br>
+Peru<br>
+]]></description>
+			<LookAt>
+				<longitude>-71.53847700</longitude>
+				<latitude>-16.37520300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-71.53847700,-16.37520300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asunción Paraguay Temple</name>
+			<Snippet>112th dedicated temple in operation; closed for renovation; interior finish work underway</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/asuncion-paraguay-temple/"></a><br>
+<br>
+Esquina Brasilia y España<br>
+Asunción<br>
+Paraguay<br>
+<a href="https://churchofjesuschristtemples.org/asuncion-paraguay-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-57.60286900</longitude>
+				<latitude>-25.28791600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-57.60286900,-25.28791600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atlanta Georgia Temple</name>
+			<Snippet>21st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/atlanta-georgia-temple/"></a><br>
+<br>
+6450 Barfield Road NE<br>
+Sandy Springs, Georgia<br>
+United States<br>
+Phone:&nbsp; (+1) 770-393-3698<br>
+<a href="https://churchofjesuschristtemples.org/atlanta-georgia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-84.36239400</longitude>
+				<latitude>33.93189600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-84.36239400,33.93189600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auckland New Zealand Temple</name>
+			<Snippet>Planning and approval phase; site location announced May 21, 2019</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/auckland-new-zealand-temple/"></a><br>
+<br>
+Redoubt Road<br />
+Manukau<br>
+Auckland<br>
+New Zealand<br>
+]]></description>
+			<LookAt>
+				<longitude>174.89019100</longitude>
+				<latitude>-36.99322700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>174.89019100,-36.99322700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bangkok Thailand Temple</name>
+			<Snippet>Heavy equipment arriving on site</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/bangkok-thailand-temple/"></a><br>
+<br>
+1645/6 New Petchaburi Road<br />
+Makkasan<br />
+Ratchathewi<br>
+Bangkok<br>
+Thailand<br>
+]]></description>
+			<LookAt>
+				<longitude>100.56252700</longitude>
+				<latitude>13.74949100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>100.56252700,13.74949100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barranquilla Colombia Temple</name>
+			<Snippet>161st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/barranquilla-colombia-temple/"></a><br>
+<br>
+Carrera 30 No. 1-1481<br />
+Villa Campestre<br>
+Barranquilla, Atlántico<br>
+Colombia<br>
+Phone:&nbsp; (+57) 5-310-0200<br>
+<a href="https://churchofjesuschristtemples.org/barranquilla-colombia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-74.86261000</longitude>
+				<latitude>11.01679800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-74.86261000,11.01679800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baton Rouge Louisiana Temple</name>
+			<Snippet>94th dedicated temple in operation; closed for renovation; stained-glass windows installed; entrance doors installed; landscaping progressing</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/baton-rouge-louisiana-temple/"></a><br>
+<br>
+10339 Highland Road<br>
+Baton Rouge, Louisiana<br>
+United States<br>
+<a href="https://churchofjesuschristtemples.org/baton-rouge-louisiana-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-91.10838500</longitude>
+				<latitude>30.36266400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-91.10838500,30.36266400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Belém Brazil Temple</name>
+			<Snippet>Preparing for groundbreaking</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/belem-brazil-temple/"></a><br>
+<br>
+Av. Centenário<br />
+Val de Caes<br>
+Belém, Pará<br>
+Brazil<br>
+]]></description>
+			<LookAt>
+				<longitude>-48.45989400</longitude>
+				<latitude>-1.38724200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-48.45989400,-1.38724200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bern Switzerland Temple</name>
+			<Snippet>9th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/bern-switzerland-temple/"></a><br>
+<br>
+Tempelstrasse 2<br>
+Zollikofen, Bern<br>
+Switzerland<br>
+Phone:&nbsp; (+41) 31-915-5252<br>
+<a href="https://churchofjesuschristtemples.org/bern-switzerland-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>7.45824400</longitude>
+				<latitude>47.00219200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>7.45824400,47.00219200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Billings Montana Temple</name>
+			<Snippet>66th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/billings-montana-temple/"></a><br>
+<br>
+3100 Rim Point Drive<br>
+Billings, Montana<br>
+United States<br>
+Phone:&nbsp; (+1) 406-655-0607<br>
+<a href="https://churchofjesuschristtemples.org/billings-montana-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-108.63939000</longitude>
+				<latitude>45.80050500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-108.63939000,45.80050500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birmingham Alabama Temple</name>
+			<Snippet>98th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/birmingham-alabama-temple/"></a><br>
+<br>
+1927 Mount Olive Boulevard<br>
+Gardendale, Alabama<br>
+United States<br>
+Phone:&nbsp; (+1) 205-631-3444<br>
+<a href="https://churchofjesuschristtemples.org/birmingham-alabama-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-86.82123600</longitude>
+				<latitude>33.67462300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-86.82123600,33.67462300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bismarck North Dakota Temple</name>
+			<Snippet>61st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/bismarck-north-dakota-temple/"></a><br>
+<br>
+2930 Cody Drive<br>
+Bismarck, North Dakota<br>
+United States<br>
+Phone:&nbsp; (+1) 701-258-9590<br>
+<a href="https://churchofjesuschristtemples.org/bismarck-north-dakota-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-100.81397900</longitude>
+				<latitude>46.83888900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-100.81397900,46.83888900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bogotá Colombia Temple</name>
+			<Snippet>57th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/bogota-colombia-temple/"></a><br>
+<br>
+Carrera 46 no. 127–45<br>
+Bogotá, Distrito<br>
+Colombia<br>
+Phone:&nbsp; (+57) 1-625-8000<br>
+<a href="https://churchofjesuschristtemples.org/bogota-colombia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-74.05624700</longitude>
+				<latitude>4.70780100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-74.05624700,4.70780100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boise Idaho Temple</name>
+			<Snippet>27th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/boise-idaho-temple/"></a><br>
+<br>
+1211 South Cole Road<br>
+Boise, Idaho<br>
+United States<br>
+Phone:&nbsp; (+1) 208-322-4422<br>
+<a href="https://churchofjesuschristtemples.org/boise-idaho-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-116.27503400</longitude>
+				<latitude>43.59352300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-116.27503400,43.59352300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boston Massachusetts Temple</name>
+			<Snippet>100th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/boston-massachusetts-temple/"></a><br>
+<br>
+100 Hinckley Way (formerly 86 Frontage Road)<br>
+Belmont, Massachusetts<br>
+United States<br>
+Phone:&nbsp; (+1) 617-993-9993<br>
+<a href="https://churchofjesuschristtemples.org/boston-massachusetts-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-71.18809100</longitude>
+				<latitude>42.41200200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-71.18809100,42.41200200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bountiful Utah Temple</name>
+			<Snippet>47th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/bountiful-utah-temple/"></a><br>
+<br>
+640 South Bountiful Boulevard<br>
+Bountiful, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-296-2100<br>
+<a href="https://churchofjesuschristtemples.org/bountiful-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.84681200</longitude>
+				<latitude>40.88285300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.84681200,40.88285300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brasília Brazil Temple</name>
+			<Snippet>Planning and approval phase; property fence erected around temple site</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/brasilia-brazil-temple/"></a><br>
+<br>
+Brasília<br>
+Brazil<br>
+]]></description>
+			<LookAt>
+				<longitude>-47.88094500</longitude>
+				<latitude>-15.74783500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-47.88094500,-15.74783500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brigham City Utah Temple</name>
+			<Snippet>139th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/brigham-city-utah-temple/"></a><br>
+<br>
+250 South Main Street<br>
+Brigham City, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-695-2170<br>
+<a href="https://churchofjesuschristtemples.org/brigham-city-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-112.01659200</longitude>
+				<latitude>41.50537600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-112.01659200,41.50537600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brisbane Australia Temple</name>
+			<Snippet>115th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/brisbane-australia-temple/"></a><br>
+<br>
+200 River Terrace<br>
+Kangaroo Point, Queensland<br>
+Australia<br>
+Phone:&nbsp; (+61) 7-3240-3600<br>
+<a href="https://churchofjesuschristtemples.org/brisbane-australia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>153.03384100</longitude>
+				<latitude>-27.48088600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>153.03384100,-27.48088600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buenos Aires Argentina Temple</name>
+			<Snippet>39th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/buenos-aires-argentina-temple/"></a><br>
+<br>
+Autopista Richieri y Puente 13<br />
+Ciudad Evita<br>
+Buenos Aires<br>
+Argentina<br>
+Phone:&nbsp; (+54) 11-4693-9700<br>
+<a href="https://churchofjesuschristtemples.org/buenos-aires-argentina-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-58.51822500</longitude>
+				<latitude>-34.72928600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-58.51822500,-34.72928600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calgary Alberta Temple</name>
+			<Snippet>140th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/calgary-alberta-temple/"></a><br>
+<br>
+9802 Rocky Ridge Road NW<br>
+Calgary, Alberta<br>
+Canada<br>
+Phone:&nbsp; (+1) 403-241-4250<br>
+<a href="https://churchofjesuschristtemples.org/calgary-alberta-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-114.23330000</longitude>
+				<latitude>51.14086100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-114.23330000,51.14086100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Campinas Brazil Temple</name>
+			<Snippet>111th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/campinas-brazil-temple/"></a><br>
+<br>
+Rua James Esdras Faust, 400<br />
+Notre Dame<br>
+Campinas, São Paulo<br>
+Brazil<br>
+Phone:&nbsp; (+55) 19-2102-5800<br>
+<a href="https://churchofjesuschristtemples.org/campinas-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-47.00113300</longitude>
+				<latitude>-22.89653400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-47.00113300,-22.89653400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caracas Venezuela Temple</name>
+			<Snippet>96th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/caracas-venezuela-temple/"></a><br>
+<br>
+Avenida C con Calle C-1<br />
+Urbanización Caurimare<br>
+Caracas, Distrito<br>
+Venezuela<br>
+Phone:&nbsp; (+58) 212-981-1873<br>
+<a href="https://churchofjesuschristtemples.org/caracas-venezuela-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-66.83729300</longitude>
+				<latitude>10.47084900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-66.83729300,10.47084900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cardston Alberta Temple</name>
+			<Snippet>6th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/cardston-alberta-temple/"></a><br>
+<br>
+348 3rd Street West<br>
+Cardston, Alberta<br>
+Canada<br>
+Phone:&nbsp; (+1) 403-653-3552<br>
+<a href="https://churchofjesuschristtemples.org/cardston-alberta-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-113.30939400</longitude>
+				<latitude>49.19835000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-113.30939400,49.19835000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cebu City Philippines Temple</name>
+			<Snippet>133rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/cebu-city-philippines-temple/"></a><br>
+<br>
+Gorordo Avenue<br />
+Barangay Lahug<br>
+Cebu City, Cebu<br>
+Philippines<br>
+Phone:&nbsp; (+63) 32-230-1207<br>
+<a href="https://churchofjesuschristtemples.org/cebu-city-philippines-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>123.89829900</longitude>
+				<latitude>10.32765900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>123.89829900,10.32765900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cedar City Utah Temple</name>
+			<Snippet>159th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/cedar-city-utah-temple/"></a><br>
+<br>
+280 S Cove Dr<br>
+Cedar City, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-572-4150<br>
+<a href="https://churchofjesuschristtemples.org/cedar-city-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-113.09604200</longitude>
+				<latitude>37.67307900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-113.09604200,37.67307900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chicago Illinois Temple</name>
+			<Snippet>35th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/chicago-illinois-temple/"></a><br>
+<br>
+4151 West Lake Avenue<br>
+Glenview, Illinois<br>
+United States<br>
+Phone:&nbsp; (+1) 847-299-6500<br>
+<a href="https://churchofjesuschristtemples.org/chicago-illinois-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-87.85950100</longitude>
+				<latitude>42.08682900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-87.85950100,42.08682900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ciudad Juárez Mexico Temple</name>
+			<Snippet>71st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/ciudad-juarez-mexico-temple/"></a><br>
+<br>
+Calle Paraguay #290<br />
+Esquina José Borunda<br />
+Colonia Partido Romero<br>
+Ciudad Juárez, Chihuahua<br>
+Mexico<br>
+Phone:&nbsp; (+52) 656-611-5146<br>
+<a href="https://churchofjesuschristtemples.org/ciudad-juarez-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-106.46320900</longitude>
+				<latitude>31.73626900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-106.46320900,31.73626900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cochabamba Bolivia Temple</name>
+			<Snippet>82nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/cochabamba-bolivia-temple/"></a><br>
+<br>
+Avenida Melchor Urquidi 1500<br />
+Alto Queru Queru<br>
+Cochabamba, Cochabamba<br>
+Bolivia<br>
+Phone:&nbsp; (+591) 4-429-3161<br>
+<a href="https://churchofjesuschristtemples.org/cochabamba-bolivia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-66.14764400</longitude>
+				<latitude>-17.36364400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-66.14764400,-17.36364400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colonia Juárez Chihuahua Mexico Temple</name>
+			<Snippet>55th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/colonia-juarez-chihuahua-mexico-temple/"></a><br>
+<br>
+Calles Chihuahua y Díaz<br>
+Colonia Juárez, Chihuahua<br>
+Mexico<br>
+Phone:&nbsp; (+52) 636-695-0144<br>
+<a href="https://churchofjesuschristtemples.org/colonia-juarez-chihuahua-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-108.08203800</longitude>
+				<latitude>30.30525100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-108.08203800,30.30525100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Columbia River Washington Temple</name>
+			<Snippet>107th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/columbia-river-washington-temple/"></a><br>
+<br>
+969 Gage Boulevard<br>
+Richland, Washington<br>
+United States<br>
+Phone:&nbsp; (+1) 509-628-0990<br>
+<a href="https://churchofjesuschristtemples.org/columbia-river-washington-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-119.27489300</longitude>
+				<latitude>46.22673300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-119.27489300,46.22673300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Columbia South Carolina Temple</name>
+			<Snippet>62nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/columbia-south-carolina-temple/"></a><br>
+<br>
+2905 Trotter Road<br>
+Hopkins, South Carolina<br>
+United States<br>
+Phone:&nbsp; (+1) 803-647-9472<br>
+<a href="https://churchofjesuschristtemples.org/columbia-south-carolina-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-80.89398100</longitude>
+				<latitude>33.95963800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-80.89398100,33.95963800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Columbus Ohio Temple</name>
+			<Snippet>60th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/columbus-ohio-temple/"></a><br>
+<br>
+3870 Gateway Boulevard<br>
+Columbus, Ohio<br>
+United States<br>
+Phone:&nbsp; (+1) 614-351-5001<br>
+<a href="https://churchofjesuschristtemples.org/columbus-ohio-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-83.11321400</longitude>
+				<latitude>39.99408900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-83.11321400,39.99408900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Concepción Chile Temple</name>
+			<Snippet>160th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/concepcion-chile-temple/"></a><br>
+<br>
+1525 Pedro de Valdivia<br>
+Concepción, Bío-Bío<br>
+Chile<br>
+Phone:&nbsp; (+56) 41-383-4700<br>
+<a href="https://churchofjesuschristtemples.org/concepcion-chile-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-73.04996600</longitude>
+				<latitude>-36.85149900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-73.04996600,-36.85149900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Copenhagen Denmark Temple</name>
+			<Snippet>118th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/copenhagen-denmark-temple/"></a><br>
+<br>
+Priorvej 12<br>
+Frederiksberg<br>
+Denmark<br>
+Phone:&nbsp; (+45) 38-18-1818<br>
+<a href="https://churchofjesuschristtemples.org/copenhagen-denmark-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>12.53392000</longitude>
+				<latitude>55.69267700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>12.53392000,55.69267700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Córdoba Argentina Temple</name>
+			<Snippet>145th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/cordoba-argentina-temple/"></a><br>
+<br>
+Avenida Pedro Simón Laplace 5637<br />
+Villa Belgrano<br>
+Córdoba<br>
+Argentina<br>
+Phone:&nbsp; (+54) 354-340-6200<br>
+<a href="https://churchofjesuschristtemples.org/cordoba-argentina-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-64.24580900</longitude>
+				<latitude>-31.35887300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-64.24580900,-31.35887300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Curitiba Brazil Temple</name>
+			<Snippet>126th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/curitiba-brazil-temple/"></a><br>
+<br>
+Rua Deputado Heitor Alencar Furtado, 3641<br />
+Mossunguê<br>
+Curitiba, Paraná<br>
+Brazil<br>
+Phone:&nbsp; (+55) 41-3204-6650<br>
+<a href="https://churchofjesuschristtemples.org/curitiba-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-49.34213800</longitude>
+				<latitude>-25.44130400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-49.34213800,-25.44130400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dallas Texas Temple</name>
+			<Snippet>30th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/dallas-texas-temple/"></a><br>
+<br>
+6363 Willow Lane<br>
+Dallas, Texas<br>
+United States<br>
+Phone:&nbsp; (+1) 972-991-1273<br>
+<a href="https://churchofjesuschristtemples.org/dallas-texas-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-96.79652500</longitude>
+				<latitude>32.91428800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-96.79652500,32.91428800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Denver Colorado Temple</name>
+			<Snippet>40th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/denver-colorado-temple/"></a><br>
+<br>
+2001 East Phillips Circle<br>
+Centennial, Colorado<br>
+United States<br>
+Phone:&nbsp; (+1) 303-730-0220<br>
+<a href="https://churchofjesuschristtemples.org/denver-colorado-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-104.96578200</longitude>
+				<latitude>39.56869800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-104.96578200,39.56869800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Detroit Michigan Temple</name>
+			<Snippet>63rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/detroit-michigan-temple/"></a><br>
+<br>
+37425 Woodward Avenue<br>
+Bloomfield Hills, Michigan<br>
+United States<br>
+Phone:&nbsp; (+1) 248-593-0690<br>
+<a href="https://churchofjesuschristtemples.org/detroit-michigan-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-83.22998300</longitude>
+				<latitude>42.56626600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-83.22998300,42.56626600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Draper Utah Temple</name>
+			<Snippet>129th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/draper-utah-temple/"></a><br>
+<br>
+14065 Canyon Vista Lane<br>
+Draper, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-576-4240<br>
+<a href="https://churchofjesuschristtemples.org/draper-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.84074800</longitude>
+				<latitude>40.49589300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.84074800,40.49589300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Durban South Africa Temple</name>
+			<Snippet>Installing art glass windows, lockers, televisions, screens, curtain mechanics, baptismal font railing, marble baseboards, doors, trim, landscaping, and irrigation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/durban-south-africa-temple/"></a><br>
+<br>
+Preston Drive Extension<br />
+Izinga Phase 2A<br>
+Umhlanga, KwaZulu-Natal<br>
+South Africa<br>
+]]></description>
+			<LookAt>
+				<longitude>31.07367100</longitude>
+				<latitude>-29.70845500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>31.07367100,-29.70845500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edmonton Alberta Temple</name>
+			<Snippet>67th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/edmonton-alberta-temple/"></a><br>
+<br>
+14325 53rd Avenue NW<br>
+Edmonton, Alberta<br>
+Canada<br>
+Phone:&nbsp; (+1) 780-434-7436<br>
+<a href="https://churchofjesuschristtemples.org/edmonton-alberta-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-113.57053800</longitude>
+				<latitude>53.48959300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-113.57053800,53.48959300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Endowment House</name>
+			<Snippet>Temporary structure used during the construction of the Salt Lake Temple; razed in 1889</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/endowment-house/"></a><br>
+<br>
+Salt Lake City, Utah<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-111.89314400</longitude>
+				<latitude>40.77108900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_grn-circle</styleUrl>
+			<Point>
+				<coordinates>-111.89314400,40.77108900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Feather River California Temple</name>
+			<Snippet>Planning and approval phase; awaiting official site announcement</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/feather-river-california-temple/"></a><br>
+<br>
+Yuba City, California<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-121.63849700</longitude>
+				<latitude>39.16909400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-121.63849700,39.16909400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Collins Colorado Temple</name>
+			<Snippet>153rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/fort-collins-colorado-temple/"></a><br>
+<br>
+2180 Majestic Drive<br>
+Fort Collins, Colorado<br>
+United States<br>
+Phone:&nbsp; (+1) 970-797-4630<br>
+<a href="https://churchofjesuschristtemples.org/fort-collins-colorado-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-105.03868500</longitude>
+				<latitude>40.49426900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-105.03868500,40.49426900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Lauderdale Florida Temple</name>
+			<Snippet>143rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/fort-lauderdale-florida-temple/"></a><br>
+<br>
+3901 SW 154th Avenue<br>
+Davie, Florida<br>
+United States<br>
+Phone:&nbsp; (+1) 954-382-8390<br>
+<a href="https://churchofjesuschristtemples.org/fort-lauderdale-florida-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-80.35572700</longitude>
+				<latitude>26.07089900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-80.35572700,26.07089900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fortaleza Brazil Temple</name>
+			<Snippet>164th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/fortaleza-brazil-temple/"></a><br>
+<br>
+Avenida Santos Dumont 7771<br>
+Fortaleza, Ceará<br>
+Brazil<br>
+Phone:&nbsp; (+55) 85-3533-7150<br>
+<a href="https://churchofjesuschristtemples.org/fortaleza-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-38.46101000</longitude>
+				<latitude>-3.74784700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-38.46101000,-3.74784700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frankfurt Germany Temple</name>
+			<Snippet>41st dedicated temple in operation; closed for renovation; furniture being delivered; laying sod</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/frankfurt-germany-temple/"></a><br>
+<br>
+Talstrasse 10<br>
+Friedrichsdorf, Hessen<br>
+Germany<br>
+<a href="https://churchofjesuschristtemples.org/frankfurt-germany-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>8.64131600</longitude>
+				<latitude>50.25824600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>8.64131600,50.25824600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Freiberg Germany Temple</name>
+			<Snippet>33rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/freiberg-germany-temple/"></a><br>
+<br>
+Hainichener Strasse 64<br>
+Freiberg, Sachsen<br>
+Germany<br>
+Phone:&nbsp; (+49) 3731-35960<br>
+<a href="https://churchofjesuschristtemples.org/freiberg-germany-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>13.32254100</longitude>
+				<latitude>50.92231500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>13.32254100,50.92231500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fresno California Temple</name>
+			<Snippet>78th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/fresno-california-temple/"></a><br>
+<br>
+6290 North Valentine Avenue<br>
+Fresno, California<br>
+United States<br>
+Phone:&nbsp; (+1) 559-437-9451<br>
+<a href="https://churchofjesuschristtemples.org/fresno-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-119.85291100</longitude>
+				<latitude>36.82825700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-119.85291100,36.82825700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fukuoka Japan Temple</name>
+			<Snippet>88th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/fukuoka-japan-temple/"></a><br>
+<br>
+9-15 Hirao Johsui Machi<br />
+Chuo-ku<br>
+Fukuoka-shi, Fukuoka-ken<br>
+Japan<br>
+Phone:&nbsp; (+81) 92-525-8255<br>
+<a href="https://churchofjesuschristtemples.org/fukuoka-japan-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>130.39170400</longitude>
+				<latitude>33.57261800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>130.39170400,33.57261800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gilbert Arizona Temple</name>
+			<Snippet>142nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/gilbert-arizona-temple/"></a><br>
+<br>
+3301 S Greenfield Rd<br>
+Gilbert, Arizona<br>
+United States<br>
+Phone:&nbsp; (+1) 480-822-5000<br>
+<a href="https://churchofjesuschristtemples.org/gilbert-arizona-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.73736500</longitude>
+				<latitude>33.29137800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.73736500,33.29137800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Greater Manila Philippines Temple</name>
+			<Snippet>Planning and approval phase; awaiting official name announcement</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/greater-manila-philippines-temple/"></a><br>
+<br>
+Muntinlupa<br>
+Philippines<br>
+]]></description>
+			<LookAt>
+				<longitude>121.03783800</longitude>
+				<latitude>14.41291300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>121.03783800,14.41291300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guadalajara Mexico Temple</name>
+			<Snippet>105th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/guadalajara-mexico-temple/"></a><br>
+<br>
+Avenida Patria no. 879<br />
+Fraccionamiento Jardines Tepeyac<br>
+Zapopán, Jalisco<br>
+Mexico<br>
+Phone:&nbsp; (+52) 33-3125-1283<br>
+<a href="https://churchofjesuschristtemples.org/guadalajara-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-103.42307000</longitude>
+				<latitude>20.66155000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-103.42307000,20.66155000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guatemala City Guatemala Temple</name>
+			<Snippet>32nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/guatemala-city-guatemala-temple/"></a><br>
+<br>
+24 Avenida 2-20, Zona 15<br />
+Vista Hermosa 1<br>
+Guatemala City, Guatemala<br>
+Guatemala<br>
+Phone:&nbsp; (+502) 2369-3426<br>
+<a href="https://churchofjesuschristtemples.org/guatemala-city-guatemala-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-90.48557600</longitude>
+				<latitude>14.58330300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-90.48557600,14.58330300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guayaquil Ecuador Temple</name>
+			<Snippet>58th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/guayaquil-ecuador-temple/"></a><br>
+<br>
+Calle 6ta y Avenida Rodrigo Chávez González<br />
+Principado de las Lomas<br>
+Urdesa Norte, Guayaquil<br>
+Ecuador<br>
+Phone:&nbsp; (+593) 4-371-8100<br>
+<a href="https://churchofjesuschristtemples.org/guayaquil-ecuador-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-79.90487700</longitude>
+				<latitude>-2.15624600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-79.90487700,-2.15624600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Halifax Nova Scotia Temple</name>
+			<Snippet>64th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/halifax-nova-scotia-temple/"></a><br>
+<br>
+44 Cumberland Drive<br>
+Dartmouth, Nova<br>
+Canada<br>
+Phone:&nbsp; (+1) 902-434-6920<br>
+<a href="https://churchofjesuschristtemples.org/halifax-nova-scotia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-63.48903800</longitude>
+				<latitude>44.66999000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-63.48903800,44.66999000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hamilton New Zealand Temple</name>
+			<Snippet>11th dedicated temple in operation; closed for renovation; exterior refurbishment underway</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/hamilton-new-zealand-temple/"></a><br>
+<br>
+509 Tuhikaramea Road<br />
+Temple View<br>
+Hamilton<br>
+New Zealand<br>
+Phone:&nbsp; (+64) 7-846-2750<br>
+<a href="https://churchofjesuschristtemples.org/hamilton-new-zealand-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>175.22488500</longitude>
+				<latitude>-37.82639700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>175.22488500,-37.82639700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harare Zimbabwe Temple</name>
+			<Snippet>Planning and approval phase; awaiting official site announcement</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/harare-zimbabwe-temple/"></a><br>
+<br>
+Harare<br>
+Zimbabwe<br>
+]]></description>
+			<LookAt>
+				<longitude>31.08242600</longitude>
+				<latitude>-17.80408500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>31.08242600,-17.80408500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hartford Connecticut Temple</name>
+			<Snippet>155th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/hartford-connecticut-temple/"></a><br>
+<br>
+2 Central Way<br>
+Farmington, Connecticut<br>
+United States<br>
+Phone:&nbsp; (+1) 860-773-7200<br>
+<a href="https://churchofjesuschristtemples.org/hartford-connecticut-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-72.84466600</longitude>
+				<latitude>41.73755200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-72.84466600,41.73755200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Helsinki Finland Temple</name>
+			<Snippet>124th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/helsinki-finland-temple/"></a><br>
+<br>
+Leppäsillantie 3<br>
+Espoo<br>
+Finland<br>
+Phone:&nbsp; (+358) 9-849-3710<br>
+<a href="https://churchofjesuschristtemples.org/helsinki-finland-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>24.78178500</longitude>
+				<latitude>60.22519300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>24.78178500,60.22519300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hermosillo Sonora Mexico Temple</name>
+			<Snippet>72nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/hermosillo-sonora-mexico-temple/"></a><br>
+<br>
+General Pedro García Conde no. 303<br />
+Esquina Con Juan José Ríos<br />
+Colonia Pitic<br>
+Hermosillo, Sonora<br>
+Mexico<br>
+Phone:&nbsp; (+52) 662-210-5660<br>
+<a href="https://churchofjesuschristtemples.org/hermosillo-sonora-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-110.94687000</longitude>
+				<latitude>29.10254800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-110.94687000,29.10254800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hong Kong China Temple</name>
+			<Snippet>48th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/hong-kong-china-temple/"></a><br>
+<br>
+2 Cornwall Street<br />
+Kowloon Tong<br>
+Kowloon City<br>
+Hong Kong<br>
+Phone:&nbsp; (+852) 2339-8100<br>
+<a href="https://churchofjesuschristtemples.org/hong-kong-china-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>114.17733600</longitude>
+				<latitude>22.34045000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>114.17733600,22.34045000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Houston Texas Temple</name>
+			<Snippet>97th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/houston-texas-temple/"></a><br>
+<br>
+15725 Champion Forest Drive<br>
+Spring, Texas<br>
+United States<br>
+Phone:&nbsp; (+1) 281-376-6804<br>
+<a href="https://churchofjesuschristtemples.org/houston-texas-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-95.53303800</longitude>
+				<latitude>29.99972900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-95.53303800,29.99972900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Idaho Falls Idaho Temple</name>
+			<Snippet>8th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/idaho-falls-idaho-temple/"></a><br>
+<br>
+1000 Memorial Drive<br>
+Idaho Falls, Idaho<br>
+United States<br>
+Phone:&nbsp; (+1) 208-522-7669<br>
+<a href="https://churchofjesuschristtemples.org/idaho-falls-idaho-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-112.04150000</longitude>
+				<latitude>43.49981900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-112.04150000,43.49981900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indianapolis Indiana Temple</name>
+			<Snippet>148th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/indianapolis-indiana-temple/"></a><br>
+<br>
+11565 Temple Dr<br>
+Carmel, Indiana<br>
+United States<br>
+Phone:&nbsp; (+1) 317-993-3800<br>
+<a href="https://churchofjesuschristtemples.org/indianapolis-indiana-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-86.16574100</longitude>
+				<latitude>39.95558800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-86.16574100,39.95558800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Johannesburg South Africa Temple</name>
+			<Snippet>36th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/johannesburg-south-africa-temple/"></a><br>
+<br>
+7 Jubilee Road<br />
+Parktown<br>
+Johannesburg<br>
+South Africa<br>
+Phone:&nbsp; (+27) 11-645-1540<br>
+<a href="https://churchofjesuschristtemples.org/johannesburg-south-africa-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>28.03919500</longitude>
+				<latitude>-26.17805100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>28.03919500,-26.17805100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jordan River Utah Temple</name>
+			<Snippet>20th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/jordan-river-utah-temple/"></a><br>
+<br>
+10200 South 1300 West<br>
+South Jordan, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-254-3003<br>
+<a href="https://churchofjesuschristtemples.org/jordan-river-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.93141700</longitude>
+				<latitude>40.56635400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.93141700,40.56635400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kansas City Missouri Temple</name>
+			<Snippet>137th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/kansas-city-missouri-temple/"></a><br>
+<br>
+7001 Searcy Creek Parkway<br>
+Kansas City, Missouri<br>
+United States<br>
+Phone:&nbsp; (+1) 816-413-1430<br>
+<a href="https://churchofjesuschristtemples.org/kansas-city-missouri-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-94.50133100</longitude>
+				<latitude>39.22047300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-94.50133100,39.22047300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kinshasa Democratic Republic of the Congo Temple</name>
+			<Snippet>163rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/kinshasa-democratic-republic-of-the-congo-temple/"></a><br>
+<br>
+Avenue de l'OUA<br />
+Commune de Ngaliema<br>
+Kinshasa<br>
+Democratic Republic of the Congo<br>
+<a href="https://churchofjesuschristtemples.org/kinshasa-democratic-republic-of-the-congo-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>15.27371000</longitude>
+				<latitude>-4.32747800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>15.27371000,-4.32747800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kirtland Temple</name>
+			<Snippet>Owned and operated by the Community of Christ</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/kirtland-temple/"></a><br>
+<br>
+9020 Chillicothe Road<br>
+Kirtland, Ohio<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-81.36215900</longitude>
+				<latitude>41.62529200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_grn-circle</styleUrl>
+			<Point>
+				<coordinates>-81.36215900,41.62529200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kona Hawaii Temple</name>
+			<Snippet>70th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/kona-hawaii-temple/"></a><br>
+<br>
+75-230 Kalani Street<br>
+Kailua Kona, Hawaii<br>
+United States<br>
+Phone:&nbsp; (+1) 808-331-8504<br>
+<a href="https://churchofjesuschristtemples.org/kona-hawaii-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-155.98552400</longitude>
+				<latitude>19.64161400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-155.98552400,19.64161400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kyiv Ukraine Temple</name>
+			<Snippet>134th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/kyiv-ukraine-temple/"></a><br>
+<br>
+1 Yabluneva Street<br />
+v. Sofiivs'ka Borshchagivka<br>
+Kyevo-Sviatoshyns'ky Rayon, Kyivs'ka Oblast<br>
+Ukraine<br>
+Phone:&nbsp; (+380) 44-371-4088<br>
+<a href="https://churchofjesuschristtemples.org/kyiv-ukraine-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>30.39556500</longitude>
+				<latitude>50.40451700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>30.39556500,50.40451700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laie Hawaii Temple</name>
+			<Snippet>5th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/laie-hawaii-temple/"></a><br>
+<br>
+55-600 Naniloa Loop<br>
+Laie, Hawaii<br>
+United States<br>
+Phone:&nbsp; (+1) 808-293-2427<br>
+<a href="https://churchofjesuschristtemples.org/laie-hawaii-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-157.93065800</longitude>
+				<latitude>21.64720700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-157.93065800,21.64720700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Vegas Nevada Temple</name>
+			<Snippet>43rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/las-vegas-nevada-temple/"></a><br>
+<br>
+827 Temple View Drive<br>
+Las Vegas, Nevada<br>
+United States<br>
+Phone:&nbsp; (+1) 702-452-5011<br>
+<a href="https://churchofjesuschristtemples.org/las-vegas-nevada-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-115.02005200</longitude>
+				<latitude>36.17459700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-115.02005200,36.17459700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Layton Utah Temple</name>
+			<Snippet>Planning and approval phase; awaiting official site announcement</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/layton-utah-temple/"></a><br>
+<br>
+Layton, Utah<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-111.93837900</longitude>
+				<latitude>41.06169900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-111.93837900,41.06169900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lima Peru Los Olivos Temple</name>
+			<Snippet>Groundbreaking ceremony held June 8, 2019; full-scale construction pending</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/lima-peru-los-olivos-temple/"></a><br>
+<br>
+Eloy Espinoza<br />
+Urbanización Ingenieria<br />
+San Martín de Porres<br>
+Lima, Lima<br>
+Peru<br>
+]]></description>
+			<LookAt>
+				<longitude>-77.05423700</longitude>
+				<latitude>-12.01999200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-77.05423700,-12.01999200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lima Peru Temple</name>
+			<Snippet>38th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/lima-peru-temple/"></a><br>
+<br>
+Av. Javier Prado Este 6420<br />
+Urb. Santa Patricia<br />
+La Molina<br>
+Lima, Lima<br>
+Peru<br>
+Phone:&nbsp; (+51) 1-612-7200<br>
+<a href="https://churchofjesuschristtemples.org/lima-peru-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-76.94889700</longitude>
+				<latitude>-12.06971300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-76.94889700,-12.06971300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lisbon Portugal Temple</name>
+			<Snippet>Construction completed; preparing temple for open house; water feature operating</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/lisbon-portugal-temple/"></a><br>
+<br>
+Avenida Dom João II<br />
+1990-364 Moscavide<br>
+Lisbon<br>
+Portugal<br>
+]]></description>
+			<LookAt>
+				<longitude>-9.09878400</longitude>
+				<latitude>38.77918700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-9.09878400,38.77918700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Logan Utah Temple</name>
+			<Snippet>2nd dedicated temple in operation; renovation plans underway</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/logan-utah-temple/"></a><br>
+<br>
+175 North 300 East<br>
+Logan, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-752-3611<br>
+<a href="https://churchofjesuschristtemples.org/logan-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.82794300</longitude>
+				<latitude>41.73416100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.82794300,41.73416100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>London England Temple</name>
+			<Snippet>12th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/london-england-temple/"></a><br>
+<br>
+West Park Road<br>
+Newchapel<br>
+United Kingdom<br>
+Phone:&nbsp; (+44) 1342 831-400<br>
+<a href="https://churchofjesuschristtemples.org/london-england-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-0.05218100</longitude>
+				<latitude>51.16256600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-0.05218100,51.16256600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Los Angeles California Temple</name>
+			<Snippet>10th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/los-angeles-california-temple/"></a><br>
+<br>
+10777 Santa Monica Boulevard<br>
+Los Angeles, California<br>
+United States<br>
+Phone:&nbsp; (+1) 310-474-5569<br>
+<a href="https://churchofjesuschristtemples.org/los-angeles-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-118.43390900</longitude>
+				<latitude>34.05280100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-118.43390900,34.05280100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Louisville Kentucky Temple</name>
+			<Snippet>76th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/louisville-kentucky-temple/"></a><br>
+<br>
+7116 West Highway 22<br>
+Crestwood, Kentucky<br>
+United States<br>
+Phone:&nbsp; (+1) 502-241-4115<br>
+<a href="https://churchofjesuschristtemples.org/louisville-kentucky-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-85.48884300</longitude>
+				<latitude>38.32112000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-85.48884300,38.32112000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lubbock Texas Temple</name>
+			<Snippet>109th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/lubbock-texas-temple/"></a><br>
+<br>
+7016 Frankford Avenue<br>
+Lubbock, Texas<br>
+United States<br>
+Phone:&nbsp; (+1) 806-794-0774<br>
+<a href="https://churchofjesuschristtemples.org/lubbock-texas-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-101.94141300</longitude>
+				<latitude>33.52896100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-101.94141300,33.52896100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Madrid Spain Temple</name>
+			<Snippet>56th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/madrid-spain-temple/"></a><br>
+<br>
+Calle del Templo no. 2<br>
+Madrid<br>
+Spain<br>
+Phone:&nbsp; (+34) 91-214-2607<br>
+<a href="https://churchofjesuschristtemples.org/madrid-spain-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-3.63158000</longitude>
+				<latitude>40.40009000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-3.63158000,40.40009000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manaus Brazil Temple</name>
+			<Snippet>138th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/manaus-brazil-temple/"></a><br>
+<br>
+Avenida Coronel Texeira, 3162<br />
+Ponta Negra<br>
+Manaus, Amazonas<br>
+Brazil<br>
+Phone:&nbsp; (+55) 92-3212-7270<br>
+<a href="https://churchofjesuschristtemples.org/manaus-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-60.08933100</longitude>
+				<latitude>-3.07390700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-60.08933100,-3.07390700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manhattan New York Temple</name>
+			<Snippet>119th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/manhattan-new-york-temple/"></a><br>
+<br>
+125 Columbus Avenue<br>
+New York, New York<br>
+United States<br>
+Phone:&nbsp; (+1) 917-441-8220<br>
+<a href="https://churchofjesuschristtemples.org/manhattan-new-york-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-73.98162200</longitude>
+				<latitude>40.77311200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-73.98162200,40.77311200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manila Philippines Temple</name>
+			<Snippet>29th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/manila-philippines-temple/"></a><br>
+<br>
+13 Temple Drive<br />
+Greenmeadows Subdivision<br>
+Quezon City, Metro Manila<br>
+Philippines<br>
+Phone:&nbsp; (+63) 2-635-0954<br>
+<a href="https://churchofjesuschristtemples.org/manila-philippines-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>121.06981800</longitude>
+				<latitude>14.60135600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>121.06981800,14.60135600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manti Utah Temple</name>
+			<Snippet>3rd dedicated temple in operation; renovation plans underway</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/manti-utah-temple/"></a><br>
+<br>
+Temple Hill<br>
+Manti, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-835-2291<br>
+<a href="https://churchofjesuschristtemples.org/manti-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.63376000</longitude>
+				<latitude>39.27290600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.63376000,39.27290600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Medford Oregon Temple</name>
+			<Snippet>79th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/medford-oregon-temple/"></a><br>
+<br>
+3900 Grant Road<br>
+Central Point, Oregon<br>
+United States<br>
+Phone:&nbsp; (+1) 541-664-2050<br>
+<a href="https://churchofjesuschristtemples.org/medford-oregon-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-122.93274600</longitude>
+				<latitude>42.37332400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-122.93274600,42.37332400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Melbourne Australia Temple</name>
+			<Snippet>90th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/melbourne-australia-temple/"></a><br>
+<br>
+76 Cathies Lane<br>
+Wantirna South, Victoria<br>
+Australia<br>
+Phone:&nbsp; (+61) 3-9881-9700<br>
+<a href="https://churchofjesuschristtemples.org/melbourne-australia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>145.21262200</longitude>
+				<latitude>-37.86877400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>145.21262200,-37.86877400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Memphis Tennessee Temple</name>
+			<Snippet>80th dedicated temple in operation; closed for renovation; preparing for rededication</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/memphis-tennessee-temple/"></a><br>
+<br>
+4199 Kirby-Whitten Parkway<br>
+Bartlett, Tennessee<br>
+United States<br>
+<a href="https://churchofjesuschristtemples.org/memphis-tennessee-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-89.83933400</longitude>
+				<latitude>35.24075200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-89.83933400,35.24075200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mendoza Argentina Temple</name>
+			<Snippet>Planning and approval phase</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/mendoza-argentina-temple/"></a><br>
+<br>
+Avenida Champagnat<br>
+Las Heras, Mendoza<br>
+Argentina<br>
+]]></description>
+			<LookAt>
+				<longitude>-68.88159200</longitude>
+				<latitude>-32.86375700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-68.88159200,-32.86375700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mérida Mexico Temple</name>
+			<Snippet>92nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/merida-mexico-temple/"></a><br>
+<br>
+Calle 70 no. 527 Esquina 65 y 67<br />
+Colonia Centro<br>
+Mérida, Yucatán<br>
+Mexico<br>
+Phone:&nbsp; (+52) 999-928-1643<br>
+<a href="https://churchofjesuschristtemples.org/merida-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-89.63106100</longitude>
+				<latitude>20.96578400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-89.63106100,20.96578400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Meridian Idaho Temple</name>
+			<Snippet>158th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/meridian-idaho-temple/"></a><br>
+<br>
+7355 North Linder Road<br>
+Meridian, Idaho<br>
+United States<br>
+Phone:&nbsp; (+1) 208-957-7300<br>
+<a href="https://churchofjesuschristtemples.org/meridian-idaho-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-116.41511500</longitude>
+				<latitude>43.67102200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-116.41511500,43.67102200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mesa Arizona Temple</name>
+			<Snippet>7th dedicated temple in operation; closed for renovation; pouring retaining wall around temple; forms set for west reflecting pool slab; slab poured for north reflecting pool</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/mesa-arizona-temple/"></a><br>
+<br>
+101 South LeSueur<br>
+Mesa, Arizona<br>
+United States<br>
+Phone:&nbsp; (+1) 480-833-1211<br>
+<a href="https://churchofjesuschristtemples.org/mesa-arizona-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.81957100</longitude>
+				<latitude>33.41287600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.81957100,33.41287600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mexico City Mexico Temple</name>
+			<Snippet>26th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/mexico-city-mexico-temple/"></a><br>
+<br>
+Avenida 510 no. 90<br />
+Colonia San Juan de Aragón<br>
+Mexico City, Distrito Federal<br>
+Mexico<br>
+Phone:&nbsp; (+52) 55-5003-3700<br>
+<a href="https://churchofjesuschristtemples.org/mexico-city-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-99.08675400</longitude>
+				<latitude>19.46590500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-99.08675400,19.46590500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monterrey Mexico Temple</name>
+			<Snippet>110th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/monterrey-mexico-temple/"></a><br>
+<br>
+Avenida Eugenio Garza Sada<br />
+Esquina Privada Valle de la Estanzuela<br />
+Colonia Valle Alto<br>
+Monterrey, Nuevo León<br>
+Mexico<br>
+Phone:&nbsp; (+52) 81-8104-0635<br>
+<a href="https://churchofjesuschristtemples.org/monterrey-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-100.25997500</longitude>
+				<latitude>25.58936400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-100.25997500,25.58936400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montevideo Uruguay Temple</name>
+			<Snippet>103rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/montevideo-uruguay-temple/"></a><br>
+<br>
+Bolonia 1722<br />
+Carrasco<br>
+Montevideo<br>
+Uruguay<br>
+Phone:&nbsp; (+598) 2604-7300<br>
+<a href="https://churchofjesuschristtemples.org/montevideo-uruguay-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-56.07408800</longitude>
+				<latitude>-34.88844400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-56.07408800,-34.88844400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monticello Utah Temple</name>
+			<Snippet>53rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/monticello-utah-temple/"></a><br>
+<br>
+365 North 200 West<br>
+Monticello, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-587-3500<br>
+<a href="https://churchofjesuschristtemples.org/monticello-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-109.34706600</longitude>
+				<latitude>37.87791700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-109.34706600,37.87791700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montreal Quebec Temple</name>
+			<Snippet>86th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/montreal-quebec-temple/"></a><br>
+<br>
+1450 Boulevard Marie-Victorin<br>
+Longueuil, Quebec<br>
+Canada<br>
+Phone:&nbsp; (+1) 450-646-5775<br>
+<a href="https://churchofjesuschristtemples.org/montreal-quebec-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-73.49061600</longitude>
+				<latitude>45.56333500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-73.49061600,45.56333500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mount Timpanogos Utah Temple</name>
+			<Snippet>49th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/mount-timpanogos-utah-temple/"></a><br>
+<br>
+742 North 900 East<br>
+American Fork, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-763-4540<br>
+<a href="https://churchofjesuschristtemples.org/mount-timpanogos-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.77050900</longitude>
+				<latitude>40.39316600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.77050900,40.39316600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nashville Tennessee Temple</name>
+			<Snippet>84th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/nashville-tennessee-temple/"></a><br>
+<br>
+1100 Gray Fox Lane<br>
+Franklin, Tennessee<br>
+United States<br>
+Phone:&nbsp; (+1) 615-791-8668<br>
+<a href="https://churchofjesuschristtemples.org/nashville-tennessee-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-86.86032900</longitude>
+				<latitude>35.94883900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-86.86032900,35.94883900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nauvoo Illinois Temple</name>
+			<Snippet>113th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/nauvoo-illinois-temple/"></a><br>
+<br>
+50 North Wells Street<br>
+Nauvoo, Illinois<br>
+United States<br>
+Phone:&nbsp; (+1) 217-453-6252<br>
+<a href="https://churchofjesuschristtemples.org/nauvoo-illinois-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-91.38437800</longitude>
+				<latitude>40.55048000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-91.38437800,40.55048000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nauvoo Temple</name>
+			<Snippet>Destroyed by arson fire in 1848; rebuilt in 2002</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/nauvoo-temple/"></a><br>
+<br>
+Nauvoo, Illinois<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-91.38430000</longitude>
+				<latitude>40.55046400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_grn-circle</styleUrl>
+			<Point>
+				<coordinates>-91.38430000,40.55046400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Newport Beach California Temple</name>
+			<Snippet>122nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/newport-beach-california-temple/"></a><br>
+<br>
+2300 Bonita Canyon Drive<br>
+Newport Beach, California<br>
+United States<br>
+Phone:&nbsp; (+1) 949-644-1820<br>
+<a href="https://churchofjesuschristtemples.org/newport-beach-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-117.84876600</longitude>
+				<latitude>33.62962700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-117.84876600,33.62962700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nuku'alofa Tonga Temple</name>
+			<Snippet>23rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/nuku'alofa-tonga-temple/"></a><br>
+<br>
+Loto Road, Liahona<br>
+Nuku'alofa, Tongatapu<br>
+Tonga<br>
+Phone:&nbsp; (+676) 20-300<br>
+<a href="https://churchofjesuschristtemples.org/nuku'alofa-tonga-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-175.27232000</longitude>
+				<latitude>-21.16256100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-175.27232000,-21.16256100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oakland California Temple</name>
+			<Snippet>13th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/oakland-california-temple/"></a><br>
+<br>
+4770 Lincoln Avenue<br>
+Oakland, California<br>
+United States<br>
+<a href="https://churchofjesuschristtemples.org/oakland-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-122.19912000</longitude>
+				<latitude>37.80802700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-122.19912000,37.80802700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oaxaca Mexico Temple</name>
+			<Snippet>74th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/oaxaca-mexico-temple/"></a><br>
+<br>
+Avenida Universidad no. 139<br />
+Fraccionamiento Real de Candiani<br>
+Oaxaca, Oaxaca<br>
+Mexico<br>
+Phone:&nbsp; (+52) 951-516-9588<br>
+<a href="https://churchofjesuschristtemples.org/oaxaca-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-96.71350300</longitude>
+				<latitude>17.04155400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-96.71350300,17.04155400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ogden Utah Temple</name>
+			<Snippet>14th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/ogden-utah-temple/"></a><br>
+<br>
+350 22nd Street<br>
+Ogden, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-621-6880<br>
+<a href="https://churchofjesuschristtemples.org/ogden-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.97150600</longitude>
+				<latitude>41.22778600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.97150600,41.22778600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oklahoma City Oklahoma Temple</name>
+			<Snippet>95th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/oklahoma-city-oklahoma-temple/"></a><br>
+<br>
+12030 North Mustang Road<br>
+Yukon, Oklahoma<br>
+United States<br>
+<a href="https://churchofjesuschristtemples.org/oklahoma-city-oklahoma-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-97.72670000</longitude>
+				<latitude>35.59184600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-97.72670000,35.59184600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oquirrh Mountain Utah Temple</name>
+			<Snippet>130th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/oquirrh-mountain-utah-temple/"></a><br>
+<br>
+11022 South 4000 West<br>
+South Jordan, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-878-3800<br>
+<a href="https://churchofjesuschristtemples.org/oquirrh-mountain-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.98751000</longitude>
+				<latitude>40.55114500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.98751000,40.55114500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlando Florida Temple</name>
+			<Snippet>46th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/orlando-florida-temple/"></a><br>
+<br>
+9000 Windy Ridge Road<br>
+Windermere, Florida<br>
+United States<br>
+Phone:&nbsp; (+1) 407-876-0022<br>
+<a href="https://churchofjesuschristtemples.org/orlando-florida-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-81.50957800</longitude>
+				<latitude>28.50734800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-81.50957800,28.50734800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palmyra New York Temple</name>
+			<Snippet>77th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/palmyra-new-york-temple/"></a><br>
+<br>
+2720 Temple Road<br>
+Palmyra, New York<br>
+United States<br>
+Phone:&nbsp; (+1) 315-597-6001<br>
+<a href="https://churchofjesuschristtemples.org/palmyra-new-york-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-77.23706300</longitude>
+				<latitude>43.03914800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.23706300,43.03914800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panama City Panama Temple</name>
+			<Snippet>127th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/panama-city-panama-temple/"></a><br>
+<br>
+Calle Rufina 3172<br>
+Ancón, Cárdenas<br>
+Panama<br>
+Phone:&nbsp; (+507) 201-6233<br>
+<a href="https://churchofjesuschristtemples.org/panama-city-panama-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-79.57048000</longitude>
+				<latitude>8.99146000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-79.57048000,8.99146000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Papeete Tahiti Temple</name>
+			<Snippet>25th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/papeete-tahiti-temple/"></a><br>
+<br>
+Route de Fautaua—Titioro<br>
+Papeete, Tahiti<br>
+French Polynesia<br>
+Phone:&nbsp; (+689) 40-50-3939<br>
+<a href="https://churchofjesuschristtemples.org/papeete-tahiti-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-149.55601900</longitude>
+				<latitude>-17.53661800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-149.55601900,-17.53661800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paris France Temple</name>
+			<Snippet>156th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/paris-france-temple/"></a><br>
+<br>
+46 Boulevard Saint-Antoine<br />
+15-21 rue du General Welvert<br>
+Le Chesnay<br>
+France<br>
+Phone:&nbsp; (+33) 970-73-70-00<br>
+<a href="https://churchofjesuschristtemples.org/paris-france-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>2.12317100</longitude>
+				<latitude>48.81789200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>2.12317100,48.81789200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Payson Utah Temple</name>
+			<Snippet>146th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/payson-utah-temple/"></a><br>
+<br>
+1494 South 930 West<br>
+Payson, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-754-4949<br>
+<a href="https://churchofjesuschristtemples.org/payson-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.74917500</longitude>
+				<latitude>40.01925800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.74917500,40.01925800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Perth Australia Temple</name>
+			<Snippet>106th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/perth-australia-temple/"></a><br>
+<br>
+163-173 Wordsworth Avenue<br>
+Yokine, Western<br>
+Australia<br>
+Phone:&nbsp; (+61) 8-9276-0000<br>
+<a href="https://churchofjesuschristtemples.org/perth-australia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>115.86983400</longitude>
+				<latitude>-31.90690500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>115.86983400,-31.90690500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Philadelphia Pennsylvania Temple</name>
+			<Snippet>152nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/philadelphia-pennsylvania-temple/"></a><br>
+<br>
+1739 Vine Street<br>
+Philadelphia, Pennsylvania<br>
+United States<br>
+Phone:&nbsp; (+1) 215-398-3040<br>
+<a href="https://churchofjesuschristtemples.org/philadelphia-pennsylvania-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-75.16807200</longitude>
+				<latitude>39.95917400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-75.16807200,39.95917400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Phnom Penh Cambodia Temple</name>
+			<Snippet>Planning and approval phase; awaiting official site announcement</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/phnom-penh-cambodia-temple/"></a><br>
+<br>
+Phnom Penh<br>
+Cambodia<br>
+]]></description>
+			<LookAt>
+				<longitude>104.89570700</longitude>
+				<latitude>11.56989100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>104.89570700,11.56989100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Phoenix Arizona Temple</name>
+			<Snippet>144th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/phoenix-arizona-temple/"></a><br>
+<br>
+5220 West Pinnacle Peak Road<br>
+Phoenix, Arizona<br>
+United States<br>
+Phone:&nbsp; (+1) 623-474-9500<br>
+<a href="https://churchofjesuschristtemples.org/phoenix-arizona-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-112.17232900</longitude>
+				<latitude>33.69855500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-112.17232900,33.69855500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pocatello Idaho Temple</name>
+			<Snippet>Pouring footings and foundation walls</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/pocatello-idaho-temple/"></a><br>
+<br>
+3100 Butte Street<br>
+Pocatello, Idaho<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-112.40709200</longitude>
+				<latitude>42.91453100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-112.40709200,42.91453100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Port-au-Prince Haiti Temple</name>
+			<Snippet>Construction completed; preparing temple for open house</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/port-au-prince-haiti-temple/"></a><br>
+<br>
+Route de Freres Delmas 105<br />
+Petionville<br>
+Port-au-Prince<br>
+Haiti<br>
+]]></description>
+			<LookAt>
+				<longitude>-72.26814300</longitude>
+				<latitude>18.52901700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-72.26814300,18.52901700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Portland Oregon Temple</name>
+			<Snippet>42nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/portland-oregon-temple/"></a><br>
+<br>
+13600 SW Kruse Oaks Boulevard<br>
+Lake Oswego, Oregon<br>
+United States<br>
+Phone:&nbsp; (+1) 503-639-7066<br>
+<a href="https://churchofjesuschristtemples.org/portland-oregon-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-122.74222400</longitude>
+				<latitude>45.42534500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-122.74222400,45.42534500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Porto Alegre Brazil Temple</name>
+			<Snippet>102nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/porto-alegre-brazil-temple/"></a><br>
+<br>
+Rua General Salvador Pinheiro, 50<br />
+Vila Jardim<br>
+Porto Alegre, Rio Grande do Sul<br>
+Brazil<br>
+Phone:&nbsp; (+55) 51-2104-2700<br>
+<a href="https://churchofjesuschristtemples.org/porto-alegre-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-51.15786800</longitude>
+				<latitude>-30.03404700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-51.15786800,-30.03404700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Praia Cabo Verde Temple</name>
+			<Snippet>Groundbreaking ceremony held May 4, 2019; full-scale construction pending</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/praia-cabo-verde-temple/"></a><br>
+<br>
+Av. Cidade de Lisboa<br>
+Praia<br>
+Cape Verde<br>
+]]></description>
+			<LookAt>
+				<longitude>-23.51115700</longitude>
+				<latitude>14.91878900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-23.51115700,14.91878900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Preston England Temple</name>
+			<Snippet>52nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/preston-england-temple/"></a><br>
+<br>
+Temple Way, Hartwood Green<br />
+Chorley<br>
+Lancashire<br>
+United Kingdom<br>
+Phone:&nbsp; (+44) 1257-226-100<br>
+<a href="https://churchofjesuschristtemples.org/preston-england-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-2.63127500</longitude>
+				<latitude>53.67247600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-2.63127500,53.67247600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Provo City Center Temple</name>
+			<Snippet>150th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/provo-city-center-temple/"></a><br>
+<br>
+50 South University Avenue<br>
+Provo, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-343-2700<br>
+<a href="https://churchofjesuschristtemples.org/provo-city-center-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.65929900</longitude>
+				<latitude>40.23266700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.65929900,40.23266700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Provo Utah Temple</name>
+			<Snippet>15th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/provo-utah-temple/"></a><br>
+<br>
+2200 Temple Hill Drive<br>
+Provo, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-375-5775<br>
+<a href="https://churchofjesuschristtemples.org/provo-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.63977900</longitude>
+				<latitude>40.26366600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.63977900,40.26366600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quetzaltenango Guatemala Temple</name>
+			<Snippet>136th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/quetzaltenango-guatemala-temple/"></a><br>
+<br>
+9a Calle 4-03, Zona 9<br />
+Frente a Residenciales Los Cerezos 1<br>
+Quetzaltenango<br>
+Guatemala<br>
+Phone:&nbsp; (+502) 7728-1603<br>
+<a href="https://churchofjesuschristtemples.org/quetzaltenango-guatemala-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-91.54251700</longitude>
+				<latitude>14.84649300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-91.54251700,14.84649300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quito Ecuador Temple</name>
+			<Snippet>Construction equipment on site; temple outline marked; excavations underway</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/quito-ecuador-temple/"></a><br>
+<br>
+Cumbayá<br>
+Ecuador<br>
+]]></description>
+			<LookAt>
+				<longitude>-78.44101800</longitude>
+				<latitude>-0.21371100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-78.44101800,-0.21371100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raleigh North Carolina Temple</name>
+			<Snippet>68th dedicated temple in operation; closed for renovation; construction barrier removed; stained-glass windows installed; driveway asphalt laid; landscaping nearing completion</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/raleigh-north-carolina-temple/"></a><br>
+<br>
+574 Bryan Drive<br>
+Apex, North Carolina<br>
+United States<br>
+<a href="https://churchofjesuschristtemples.org/raleigh-north-carolina-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-78.86154200</longitude>
+				<latitude>35.73211100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-78.86154200,35.73211100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Recife Brazil Temple</name>
+			<Snippet>101st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/recife-brazil-temple/"></a><br>
+<br>
+Rua Dr. José de Góes, 284<br />
+Parnamirim<br>
+Recife, Pernambuco<br>
+Brazil<br>
+Phone:&nbsp; (+55) 81-2129-4300<br>
+<a href="https://churchofjesuschristtemples.org/recife-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-34.91112300</longitude>
+				<latitude>-8.03639000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-34.91112300,-8.03639000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Redlands California Temple</name>
+			<Snippet>116th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/redlands-california-temple/"></a><br>
+<br>
+1761 5th Avenue<br>
+Redlands, California<br>
+United States<br>
+Phone:&nbsp; (+1) 909-389-7369<br>
+<a href="https://churchofjesuschristtemples.org/redlands-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-117.14057900</longitude>
+				<latitude>34.04903700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-117.14057900,34.04903700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Regina Saskatchewan Temple</name>
+			<Snippet>65th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/regina-saskatchewan-temple/"></a><br>
+<br>
+111 Wascana Gate North<br>
+Regina, Saskatchewan<br>
+Canada<br>
+Phone:&nbsp; (+1) 306-545-8194<br>
+<a href="https://churchofjesuschristtemples.org/regina-saskatchewan-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-104.54168000</longitude>
+				<latitude>50.42098100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-104.54168000,50.42098100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reno Nevada Temple</name>
+			<Snippet>81st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/reno-nevada-temple/"></a><br>
+<br>
+2000 Beaumont Parkway<br>
+Reno, Nevada<br>
+United States<br>
+Phone:&nbsp; (+1) 775-747-6688<br>
+<a href="https://churchofjesuschristtemples.org/reno-nevada-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-119.89891300</longitude>
+				<latitude>39.53461100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-119.89891300,39.53461100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rexburg Idaho Temple</name>
+			<Snippet>125th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/rexburg-idaho-temple/"></a><br>
+<br>
+750 South 2nd East<br>
+Rexburg, Idaho<br>
+United States<br>
+Phone:&nbsp; (+1) 208-656-0880<br>
+<a href="https://churchofjesuschristtemples.org/rexburg-idaho-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.77897900</longitude>
+				<latitude>43.81092200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.77897900,43.81092200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Richmond Virginia Temple</name>
+			<Snippet>Preliminary plans submitted to local government on March 22, 2019</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/richmond-virginia-temple/"></a><br>
+<br>
+10915 Staples Mill Rd<br>
+Glen Allen, Virginia<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-77.53537200</longitude>
+				<latitude>37.67288400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-77.53537200,37.67288400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rio de Janeiro Brazil Temple</name>
+			<Snippet>Construction barrier replaced by decorative fencing; landscaping underway; scaffolding being removed from temple tower</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/rio-de-janeiro-brazil-temple/"></a><br>
+<br>
+Avenida das Américas, 8400<br />
+Barra da Tijuca<br>
+Rio de Janeiro, Rio de Janeiro<br>
+Brazil<br>
+]]></description>
+			<LookAt>
+				<longitude>-43.39991800</longitude>
+				<latitude>-23.00089400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-43.39991800,-23.00089400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rome Italy Temple</name>
+			<Snippet>162nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/rome-italy-temple/"></a><br>
+<br>
+Via di Settebagni, 376<br>
+Rome<br>
+Italy<br>
+<a href="https://churchofjesuschristtemples.org/rome-italy-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>12.54476400</longitude>
+				<latitude>41.97043700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>12.54476400,41.97043700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sacramento California Temple</name>
+			<Snippet>123rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/sacramento-california-temple/"></a><br>
+<br>
+2110 California Circle<br>
+Rancho Cordova, California<br>
+United States<br>
+Phone:&nbsp; (+1) 916-357-5870<br>
+<a href="https://churchofjesuschristtemples.org/sacramento-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-121.19392500</longitude>
+				<latitude>38.63511600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-121.19392500,38.63511600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salt Lake Temple</name>
+			<Snippet>4th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/salt-lake-temple/"></a><br>
+<br>
+50 West North Temple Street<br>
+Salt Lake City, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 801-240-2640<br>
+<a href="https://churchofjesuschristtemples.org/salt-lake-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-111.89195800</longitude>
+				<latitude>40.77046800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-111.89195800,40.77046800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salta Argentina Temple</name>
+			<Snippet>Planning and approval phase</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/salta-argentina-temple/"></a><br>
+<br>
+Salta<br>
+Argentina<br>
+]]></description>
+			<LookAt>
+				<longitude>-65.47000100</longitude>
+				<latitude>-24.83719700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-65.47000100,-24.83719700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Antonio Texas Temple</name>
+			<Snippet>120th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/san-antonio-texas-temple/"></a><br>
+<br>
+20080 Stone Oak Parkway<br>
+San Antonio, Texas<br>
+United States<br>
+Phone:&nbsp; (+1) 210-538-0034<br>
+<a href="https://churchofjesuschristtemples.org/san-antonio-texas-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-98.48878900</longitude>
+				<latitude>29.64148100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-98.48878900,29.64148100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Diego California Temple</name>
+			<Snippet>45th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/san-diego-california-temple/"></a><br>
+<br>
+7474 Charmant Drive<br>
+San Diego, California<br>
+United States<br>
+Phone:&nbsp; (+1) 858-622-0991<br>
+<a href="https://churchofjesuschristtemples.org/san-diego-california-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-117.22876900</longitude>
+				<latitude>32.86638900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-117.22876900,32.86638900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San José Costa Rica Temple</name>
+			<Snippet>87th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/san-jose-costa-rica-temple/"></a><br>
+<br>
+Del Hotel Marriott, 600 Metros Oeste<br />
+La Ribera de Belén<br>
+Heredia<br>
+Costa Rica<br>
+Phone:&nbsp; (+506) 2293-6681<br>
+<a href="https://churchofjesuschristtemples.org/san-jose-costa-rica-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-84.18483100</longitude>
+				<latitude>9.98641800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-84.18483100,9.98641800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Juan Puerto Rico Temple</name>
+			<Snippet>Groundbreaking ceremony held May 4, 2019; full-scale construction pending</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/san-juan-puerto-rico-temple/"></a><br>
+<br>
+123 Calle Ronda<br />
+Urbanización Villa Andalucía<br>
+San Juan<br>
+Puerto Rico<br>
+]]></description>
+			<LookAt>
+				<longitude>-66.02989600</longitude>
+				<latitude>18.38562300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-66.02989600,18.38562300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Salvador El Salvador Temple</name>
+			<Snippet>135th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/san-salvador-el-salvador-temple/"></a><br>
+<br>
+Avenida El Espino y Calle El Pedregal<br />
+Colonia San Benito<br>
+Antiguo Cuscatlán, La Libertad<br>
+El Salvador<br>
+Phone:&nbsp; (+503) 2520-2631<br>
+<a href="https://churchofjesuschristtemples.org/san-salvador-el-salvador-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-89.24682200</longitude>
+				<latitude>13.68334700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-89.24682200,13.68334700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santiago Chile Temple</name>
+			<Snippet>24th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/santiago-chile-temple/"></a><br>
+<br>
+Pocuro 1940 Providencia<br>
+Santiago, Región Metropolitana<br>
+Chile<br>
+Phone:&nbsp; (+56) 22-340-5070<br>
+<a href="https://churchofjesuschristtemples.org/santiago-chile-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-70.60952100</longitude>
+				<latitude>-33.43617400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-70.60952100,-33.43617400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santo Domingo Dominican Republic Temple</name>
+			<Snippet>99th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/santo-domingo-dominican-republic-temple/"></a><br>
+<br>
+Avenida Bolivar no. 825<br />
+Los Robles<br>
+Santo Domingo, Distrito Nacional<br>
+Dominican Republic<br>
+Phone:&nbsp; (+1) 809-731-2000<br>
+<a href="https://churchofjesuschristtemples.org/santo-domingo-dominican-republic-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-69.91714400</longitude>
+				<latitude>18.46656700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-69.91714400,18.46656700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Paulo Brazil Temple</name>
+			<Snippet>17th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/sao-paulo-brazil-temple/"></a><br>
+<br>
+Avenida Professor Francisco Morato, 2390<br />
+Caxingui<br>
+São Paulo, São Paulo<br>
+Brazil<br>
+Phone:&nbsp; (+55) 11-3723-7600<br>
+<a href="https://churchofjesuschristtemples.org/sao-paulo-brazil-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-46.72276400</longitude>
+				<latitude>-23.58517400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-46.72276400,-23.58517400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sapporo Japan Temple</name>
+			<Snippet>151st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/sapporo-japan-temple/"></a><br>
+<br>
+1-6-1 Oyachi-Nishi<br />
+Atsubetsu-ku<br>
+Sapporo, Hokkaidō<br>
+Japan<br>
+Phone:&nbsp; (+81) 11-890-8120<br>
+<a href="https://churchofjesuschristtemples.org/sapporo-japan-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>141.44570000</longitude>
+				<latitude>43.02490000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>141.44570000,43.02490000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saratoga Springs Utah Temple</name>
+			<Snippet>Preliminary plans submitted to City government</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/saratoga-springs-utah-temple/"></a><br>
+<br>
+Founders Boulevard<br>
+Saratoga Springs, Utah<br>
+United States<br>
+]]></description>
+			<LookAt>
+				<longitude>-111.93325700</longitude>
+				<latitude>40.34370700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-circle</styleUrl>
+			<Point>
+				<coordinates>-111.93325700,40.34370700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seattle Washington Temple</name>
+			<Snippet>19th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/seattle-washington-temple/"></a><br>
+<br>
+2808 148th Avenue SE<br>
+Bellevue, Washington<br>
+United States<br>
+Phone:&nbsp; (+1) 425-643-5144<br>
+<a href="https://churchofjesuschristtemples.org/seattle-washington-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-122.14087600</longitude>
+				<latitude>47.58407000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-122.14087600,47.58407000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seoul Korea Temple</name>
+			<Snippet>37th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/seoul-korea-temple/"></a><br>
+<br>
+500-23 Changcheon-dong<br />
+Seodaemun-gu<br>
+Seoul-si, Seoul-teukbyeolsi<br>
+South Korea<br>
+Phone:&nbsp; (+82) 2-334-9100<br>
+<a href="https://churchofjesuschristtemples.org/seoul-korea-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>126.93128600</longitude>
+				<latitude>37.55891300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>126.93128600,37.55891300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Snowflake Arizona Temple</name>
+			<Snippet>108th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/snowflake-arizona-temple/"></a><br>
+<br>
+1875 West Canyon Drive<br>
+Snowflake, Arizona<br>
+United States<br>
+Phone:&nbsp; (+1) 928-536-6626<br>
+<a href="https://churchofjesuschristtemples.org/snowflake-arizona-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-110.11160700</longitude>
+				<latitude>34.50249400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-110.11160700,34.50249400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spokane Washington Temple</name>
+			<Snippet>59th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/spokane-washington-temple/"></a><br>
+<br>
+13710 East 40th Avenue<br>
+Spokane, Washington<br>
+United States<br>
+Phone:&nbsp; (+1) 509-926-2824<br>
+<a href="https://churchofjesuschristtemples.org/spokane-washington-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-117.22069000</longitude>
+				<latitude>47.62016300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-117.22069000,47.62016300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. George Utah Temple</name>
+			<Snippet>1st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/st.-george-utah-temple/"></a><br>
+<br>
+250 East 400 South<br>
+St. George, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-673-3533<br>
+<a href="https://churchofjesuschristtemples.org/st.-george-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-113.57804100</longitude>
+				<latitude>37.10053500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-113.57804100,37.10053500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Louis Missouri Temple</name>
+			<Snippet>50th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/st.-louis-missouri-temple/"></a><br>
+<br>
+12555 North Outer Forty Drive<br>
+St. Louis, Missouri<br>
+United States<br>
+Phone:&nbsp; (+1) 314-514-1122<br>
+<a href="https://churchofjesuschristtemples.org/st.-louis-missouri-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-90.46468500</longitude>
+				<latitude>38.63965100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-90.46468500,38.63965100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Paul Minnesota Temple</name>
+			<Snippet>69th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/st.-paul-minnesota-temple/"></a><br>
+<br>
+2150 Hadley Avenue North<br>
+Oakdale, Minnesota<br>
+United States<br>
+Phone:&nbsp; (+1) 651-748-5910<br>
+<a href="https://churchofjesuschristtemples.org/st.-paul-minnesota-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-92.96519900</longitude>
+				<latitude>44.98026100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-92.96519900,44.98026100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Star Valley Wyoming Temple</name>
+			<Snippet>154th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/star-valley-wyoming-temple/"></a><br>
+<br>
+885 South Washington Street<br>
+Afton, Wyoming<br>
+United States<br>
+Phone:&nbsp; (+1) 307-886-6820<br>
+<a href="https://churchofjesuschristtemples.org/star-valley-wyoming-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-110.93253200</longitude>
+				<latitude>42.71207300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-110.93253200,42.71207300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stockholm Sweden Temple</name>
+			<Snippet>34th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/stockholm-sweden-temple/"></a><br>
+<br>
+Tempelvägen 5<br>
+Västerhaninge<br>
+Sweden<br>
+Phone:&nbsp; (+46) 8-5006-5500<br>
+<a href="https://churchofjesuschristtemples.org/stockholm-sweden-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>18.10917700</longitude>
+				<latitude>59.12467600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>18.10917700,59.12467600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Suva Fiji Temple</name>
+			<Snippet>91st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/suva-fiji-temple/"></a><br>
+<br>
+2-20 Lakeba Street<br>
+Samabula, Suva<br>
+Fiji<br>
+Phone:&nbsp; (+679) 338-8952<br>
+<a href="https://churchofjesuschristtemples.org/suva-fiji-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>178.43855900</longitude>
+				<latitude>-18.11970500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>178.43855900,-18.11970500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sydney Australia Temple</name>
+			<Snippet>28th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/sydney-australia-temple/"></a><br>
+<br>
+756 Pennant Hills Road<br />
+(Corner of Pennant Hills Road and Moseley Street)<br>
+Carlingford, New South Wales<br>
+Australia<br>
+Phone:&nbsp; (+61) 2-9841-5471<br>
+<a href="https://churchofjesuschristtemples.org/sydney-australia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>151.05059200</longitude>
+				<latitude>-33.77561700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>151.05059200,-33.77561700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taipei Taiwan Temple</name>
+			<Snippet>31st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/taipei-taiwan-temple/"></a><br>
+<br>
+256 Ai Kuo East Road<br>
+Taipei<br>
+Taiwan<br>
+Phone:&nbsp; (+886) 2-2192-4930<br>
+<a href="https://churchofjesuschristtemples.org/taipei-taiwan-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>121.52779400</longitude>
+				<latitude>25.03137700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>121.52779400,25.03137700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tampico Mexico Temple</name>
+			<Snippet>83rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/tampico-mexico-temple/"></a><br>
+<br>
+Avenida Ejército Mexicano no. 74 con 3A Avenida<br />
+Colonia Lomas del Gallo<br>
+Ciudad Madero, Tamaulipas<br>
+Mexico<br>
+Phone:&nbsp; (+52) 833-216-9660<br>
+<a href="https://churchofjesuschristtemples.org/tampico-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-97.85586900</longitude>
+				<latitude>22.25426200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-97.85586900,22.25426200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tegucigalpa Honduras Temple</name>
+			<Snippet>141st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/tegucigalpa-honduras-temple/"></a><br>
+<br>
+Residenciales Roble Oeste, Boulevard Roble Oeste, 3ra Calle Sur<br>
+Comayagüela, Francisco Morazán<br>
+Honduras<br>
+Phone:&nbsp; (+504) 2264-1212<br>
+<a href="https://churchofjesuschristtemples.org/tegucigalpa-honduras-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-87.23801900</longitude>
+				<latitude>14.05217400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-87.23801900,14.05217400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Gila Valley Arizona Temple</name>
+			<Snippet>132nd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/the-gila-valley-arizona-temple/"></a><br>
+<br>
+5291 West Highway 70<br>
+Central, Arizona<br>
+United States<br>
+Phone:&nbsp; (+1) 928-428-7243<br>
+<a href="https://churchofjesuschristtemples.org/the-gila-valley-arizona-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-109.78997400</longitude>
+				<latitude>32.86297100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-109.78997400,32.86297100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Hague Netherlands Temple</name>
+			<Snippet>114th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/the-hague-netherlands-temple/"></a><br>
+<br>
+Osijlaan 2<br>
+Zoetermeer<br>
+Netherlands<br>
+Phone:&nbsp; (+31) 79-343-5310<br>
+<a href="https://churchofjesuschristtemples.org/the-hague-netherlands-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>4.50297900</longitude>
+				<latitude>52.05448700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>4.50297900,52.05448700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tijuana Mexico Temple</name>
+			<Snippet>149th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/tijuana-mexico-temple/"></a><br>
+<br>
+Paseo Del Rio 6832<br />
+Esquina Campestre Oriente<br />
+Col 3 RA Etapa Rio Tijuana<br>
+Tijuana, Baja California<br>
+Mexico<br>
+Phone:&nbsp; (+52) 664-969-2690<br>
+<a href="https://churchofjesuschristtemples.org/tijuana-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-116.92944100</longitude>
+				<latitude>32.48871300</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-116.92944100,32.48871300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tokyo Japan Temple</name>
+			<Snippet>18th dedicated temple in operation; closed for renovation; angel Moroni installed atop spire on April 17, 2019</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/tokyo-japan-temple/"></a><br>
+<br>
+5-8-10 Minami Azabu<br />
+Minato-Ku<br>
+Tokyo<br>
+Japan<br>
+<a href="https://churchofjesuschristtemples.org/tokyo-japan-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>139.72453900</longitude>
+				<latitude>35.65283800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>139.72453900,35.65283800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toronto Ontario Temple</name>
+			<Snippet>44th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/toronto-ontario-temple/"></a><br>
+<br>
+10060 Bramalea Road<br>
+Brampton, Ontario<br>
+Canada<br>
+Phone:&nbsp; (+1) 905-799-1122<br>
+<a href="https://churchofjesuschristtemples.org/toronto-ontario-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-79.74605900</longitude>
+				<latitude>43.74433800</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-79.74605900,43.74433800,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trujillo Peru Temple</name>
+			<Snippet>147th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/trujillo-peru-temple/"></a><br>
+<br>
+Av. Mansiche Km 3,5<br />
+Carretera hacia Huanchaco<br>
+Trujillo, La Libertad<br>
+Peru<br>
+Phone:&nbsp; (+51) 44-602-130<br>
+<a href="https://churchofjesuschristtemples.org/trujillo-peru-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-79.05851500</longitude>
+				<latitude>-8.10014900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-79.05851500,-8.10014900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tucson Arizona Temple</name>
+			<Snippet>157th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/tucson-arizona-temple/"></a><br>
+<br>
+7281 N Skyline Dr<br>
+Tucson, Arizona<br>
+United States<br>
+Phone:&nbsp; (+1) 520-395-3900<br>
+<a href="https://churchofjesuschristtemples.org/tucson-arizona-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-110.94917400</longitude>
+				<latitude>32.33845400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-110.94917400,32.33845400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tuxtla Gutiérrez Mexico Temple</name>
+			<Snippet>75th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/tuxtla-gutierrez-mexico-temple/"></a><br>
+<br>
+Carretera a Chicoasen Chiapas Kilómetro 1,4<br />
+Esquina Paseo de la Roseta<br />
+Fraccionamiento San José Chapultepec<br>
+Tuxtla Gutiérrez, Chiapas<br>
+Mexico<br>
+Phone:&nbsp; (+52) 961-615-8287<br>
+<a href="https://churchofjesuschristtemples.org/tuxtla-gutierrez-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-93.15915500</longitude>
+				<latitude>16.76416400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-93.15915500,16.76416400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Twin Falls Idaho Temple</name>
+			<Snippet>128th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/twin-falls-idaho-temple/"></a><br>
+<br>
+1405 Eastland Drive North<br>
+Twin Falls, Idaho<br>
+United States<br>
+Phone:&nbsp; (+1) 208-736-7070<br>
+<a href="https://churchofjesuschristtemples.org/twin-falls-idaho-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-114.44150900</longitude>
+				<latitude>42.58682700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-114.44150900,42.58682700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urdaneta Philippines Temple</name>
+			<Snippet>Footing and foundation work underway</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/urdaneta-philippines-temple/"></a><br>
+<br>
+MacArthur Highway<br>
+Urdaneta<br>
+Philippines<br>
+]]></description>
+			<LookAt>
+				<longitude>120.58176200</longitude>
+				<latitude>15.93856700</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>120.58176200,15.93856700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vancouver British Columbia Temple</name>
+			<Snippet>131st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/vancouver-british-columbia-temple/"></a><br>
+<br>
+20370 82nd Avenue<br>
+Langley, British Columbia<br>
+Canada<br>
+Phone:&nbsp; (+1) 604-513-5933<br>
+<a href="https://churchofjesuschristtemples.org/vancouver-british-columbia-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-122.65800900</longitude>
+				<latitude>49.15121200</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-122.65800900,49.15121200,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veracruz Mexico Temple</name>
+			<Snippet>93rd dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/veracruz-mexico-temple/"></a><br>
+<br>
+Avenida Ejército Mexicano<br />
+Esquina Michoacán<br />
+Colonia Luís Echeverría<br>
+Boca del Río, Veracruz<br>
+Mexico<br>
+Phone:&nbsp; (+52) 229-922-9621<br>
+<a href="https://churchofjesuschristtemples.org/veracruz-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-96.10626000</longitude>
+				<latitude>19.13441000</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-96.10626000,19.13441000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vernal Utah Temple</name>
+			<Snippet>51st dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/vernal-utah-temple/"></a><br>
+<br>
+170 South 400 West<br>
+Vernal, Utah<br>
+United States<br>
+Phone:&nbsp; (+1) 435-789-3220<br>
+<a href="https://churchofjesuschristtemples.org/vernal-utah-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-109.53741300</longitude>
+				<latitude>40.45320500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-109.53741300,40.45320500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Villahermosa Mexico Temple</name>
+			<Snippet>85th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/villahermosa-mexico-temple/"></a><br>
+<br>
+Avenida 27 de Febrero no. 1717<br />
+Colonia Atasta de Serra<br>
+Villahermosa, Tabasco<br>
+Mexico<br>
+Phone:&nbsp; (+52) 993-352-2028<br>
+<a href="https://churchofjesuschristtemples.org/villahermosa-mexico-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-92.93737500</longitude>
+				<latitude>17.98127600</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-92.93737500,17.98127600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Washington D.C. Temple</name>
+			<Snippet>16th dedicated temple in operation; closed for renovation; east parking lot demolition underway; interior and exterior renovations continue</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/washington-d.c.-temple/"></a><br>
+<br>
+9900 Stoneybrook Drive<br>
+Kensington, Maryland<br>
+United States<br>
+Phone:&nbsp; (+1) 301-588-0650<br>
+<a href="https://churchofjesuschristtemples.org/washington-d.c.-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-77.06562400</longitude>
+				<latitude>39.01407900</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-77.06562400,39.01407900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winnipeg Manitoba Temple</name>
+			<Snippet>Temple exterior walls being installed; steeple added to meetinghouse; trees delivered for later planting</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/winnipeg-manitoba-temple/"></a><br>
+<br>
+2 Centre Street<br>
+Winnipeg, Manitoba<br>
+Canada<br>
+]]></description>
+			<LookAt>
+				<longitude>-97.19521200</longitude>
+				<latitude>49.80054400</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>-97.19521200,49.80054400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winter Quarters Nebraska Temple</name>
+			<Snippet>104th dedicated temple in operation</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/winter-quarters-nebraska-temple/"></a><br>
+<br>
+8283 North 34th Street<br>
+Omaha, Nebraska<br>
+United States<br>
+Phone:&nbsp; (+1) 402-453-3406<br>
+<a href="https://churchofjesuschristtemples.org/winter-quarters-nebraska-temple/">Information</a><br>
+]]></description>
+			<LookAt>
+				<longitude>-95.96619000</longitude>
+				<latitude>41.33407500</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<coordinates>-95.96619000,41.33407500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yigo Guam Temple</name>
+			<Snippet>Groundbreaking held on May 4, 2019; full-scale construction pending</Snippet>
+			<description><![CDATA[<a href="https://churchofjesuschristtemples.org/yigo-guam-temple/"></a><br>
+<br>
+Marine Corps Drive and Milalak Drive<br>
+Yigo<br>
+Guam<br>
+]]></description>
+			<LookAt>
+				<longitude>144.89014300</longitude>
+				<latitude>13.54174100</latitude>
+				<altitude>0</altitude>
+				<range>300</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#msn_blu-circle</styleUrl>
+			<Point>
+				<coordinates>144.89014300,13.54174100,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

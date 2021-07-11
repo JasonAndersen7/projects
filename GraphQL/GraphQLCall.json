@@ -1,0 +1,16 @@
+POST https: //localhost:5001/graphql HTTP/1.1
+    Content - Type: application / xml
+    X-REQUEST-TYPE: GraphQL
+
+
+
+{
+    "query": "{
+    products {
+        name
+    }
+}
+",
+"variables": null,
+"operationName": null
+}

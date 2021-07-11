@@ -1,0 +1,14 @@
+POST https://localhost:5001/graphql HTTP/1.1
+    Content-Type: application/json
+    X-REQUEST-TYPE: GraphQL
+
+query  {
+  products { 
+      id
+      }
+}
+
+{
+    "name": "vscode-restclient",
+    "owner": "Huachao"
+}
